@@ -1,0 +1,10 @@
+C:\Users\mrt_b\source\repos\Sinema Modülü App\Sinema Modülü App\bin\Debug\Sinema Modülü App.exe.config
+C:\Users\mrt_b\source\repos\Sinema Modülü App\Sinema Modülü App\bin\Debug\Sinema Modülü App.exe
+C:\Users\mrt_b\source\repos\Sinema Modülü App\Sinema Modülü App\bin\Debug\Sinema Modülü App.pdb
+C:\Users\mrt_b\source\repos\Sinema Modülü App\Sinema Modülü App\obj\Debug\Sinema Modülü App.csprojAssemblyReference.cache
+C:\Users\mrt_b\source\repos\Sinema Modülü App\Sinema Modülü App\obj\Debug\Sinema_Modülü_App.Form1.resources
+C:\Users\mrt_b\source\repos\Sinema Modülü App\Sinema Modülü App\obj\Debug\Sinema_Modülü_App.Properties.Resources.resources
+C:\Users\mrt_b\source\repos\Sinema Modülü App\Sinema Modülü App\obj\Debug\Sinema Modülü App.csproj.GenerateResource.cache
+C:\Users\mrt_b\source\repos\Sinema Modülü App\Sinema Modülü App\obj\Debug\Sinema Modülü App.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Sinema Modülü App\Sinema Modülü App\obj\Debug\Sinema Modülü App.exe
+C:\Users\mrt_b\source\repos\Sinema Modülü App\Sinema Modülü App\obj\Debug\Sinema Modülü App.pdb
